@@ -1,9 +1,9 @@
 # Project Title
-One sentence describing what this project does.
+Autonomous ai-driven human detection in high-rise builiding fires using yolo 
 ## The Problem
-Two to three sentences on the problem this project addresses.
+High-rise building fires in densely populated urban areas claim numerous lives each year, and the absence of autonomous rescue systems forces firefighters to operate under extreme conditions of smoke, heat, and structural collapse. This project presents an advanced, AI-driven unmanned aerial vehicle (UAV) framework designed to optimize search-and-rescue operations in structural firefighting environments
 ## My Solution
-Plain-language explanation of the technical approach.
+To create a YOLO v8 or YOLO family model to identify humans in hazardous conditions, such as fire scene in high-rise buildings where it's potentially hard for firefighters to reach in the heat of the moment. Its main purpose is to detect people under thick smoke and building debris, helping save firefighters' lives and preventing them from being put at risk.
 ## Results
 Key finding or outcome from experiments.
 ## Repository Structure
@@ -12,7 +12,8 @@ Key finding or outcome from experiments.
 - /data — Dataset references
 - /results — Charts and output files
 ## Dataset
-Name of dataset and link to source.
+Fire Smoke and Human Detector Computer Vision Dataset
+Link - https://universe.roboflow.com/spyrobot/fire-smoke-and-human-detector
 ## Project Website
 Link to project website.
 ## Contact
