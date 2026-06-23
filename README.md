@@ -15,7 +15,7 @@ Key finding or outcome from experiments.
 Fire Smoke and Human Detector Computer Vision Dataset
 Link - https://universe.roboflow.com/spyrobot/fire-smoke-and-human-detector
 ## Project Website
-Link to project website.
+Link to project website
 ## Contact
 By Kishan Kannan
 Email - kishankannan.blr@gmail.com
