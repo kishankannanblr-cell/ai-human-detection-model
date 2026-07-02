@@ -1,5 +1,4 @@
-# Project Title
-Autonomous AI-driven human detection in high-rise builiding fires using YOLO frameworks
+# Autonomous AI-driven human detection in high-rise builiding fires using YOLO frameworks
 ## The Problem
 High-rise building fires in densely populated urban areas claim numerous lives each year, and the absence of autonomous rescue systems forces firefighters to operate under extreme conditions of smoke, heat, and structural collapse. This project presents an advanced, AI-driven unmanned aerial vehicle (UAV) framework designed to optimize search-and-rescue operations in structural firefighting environments
 ## My Solution
