@@ -1,6 +1,6 @@
 # Autonomous AI-driven human detection in high-rise builiding fires using YOLO frameworks
 ## The Problem
-High-rise building fires in densely populated urban areas claim numerous lives each year, and the absence of autonomous rescue systems forces firefighters to operate under extreme conditions of smoke, heat, and structural collapse. This project presents an advanced, AI-driven unmanned aerial vehicle (UAV) framework designed to optimize search-and-rescue operations in structural firefighting environments
+High-rise building fires in densely populated urban areas claim numerous lives each year, and the absence of autonomous rescue systems forces firefighters to operate under extreme conditions of smoke, heat, and structural collapse. Traditional visual search and reconnaissance methods frequently fail due to heavy smoke opacity and dense debris. 
 ## My Solution
 To create a YOLO v8 or YOLO family model to identify humans in hazardous conditions, such as fire scene in high-rise buildings where it's potentially hard for firefighters to reach in the heat of the moment. Its main purpose is to detect people under thick smoke and building debris, helping save firefighters' lives and preventing them from being put at risk.
 ## Results
