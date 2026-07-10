@@ -1,4 +1,4 @@
-# Autonomous AI-driven human detection in high-rise builiding fires using YOLO frameworks
+# AUTONOMOUS AI-DRIVEN HUMAN DETECTION AND ROOM-PRIORITY RESCUE TRIAGE IN HIGH-RISE BUILDING FIRES
 ## The Problem
 High-rise building fires in densely populated urban areas claim numerous lives each year, and the absence of autonomous rescue systems forces firefighters to operate under extreme conditions of smoke, heat, and structural collapse. Traditional visual search and reconnaissance methods frequently fail due to heavy smoke opacity and dense debris. 
 ## My Solution
