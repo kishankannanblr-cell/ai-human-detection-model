@@ -1,0 +1,14 @@
+# Python environment and caching
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Output runs or local temporary weights if running inside code/ folder
+code/runs/
+code/*.pt
+code/*.zip
+code/dataset/
