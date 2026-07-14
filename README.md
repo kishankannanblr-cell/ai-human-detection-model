@@ -7,14 +7,15 @@ To create a YOLO v8 or YOLO family model to identify humans in hazardous conditi
 Key finding or outcome from experiments.
 ## Repository Structure
 - /code — Notebooks and scripts
-- /docs — Research paper and pitch deck
+- [/documentation](file:///c:/Users/Kishan/Documents/Model_Dashboard_Trial/github_repo_temp/documentation) — Research papers, pitch deck, and Lovable UI dashboard
+  - [lovable-ui](file:///c:/Users/Kishan/Documents/Model_Dashboard_Trial/github_repo_temp/documentation/lovable-ui) — React/Vite/TypeScript web application for the incident commander priority board
 - /data — Dataset references
 - /results — Charts and output files
 ## Dataset
 Fire Smoke and Human Detector Computer Vision Dataset
 Link - https://universe.roboflow.com/spyrobot/fire-smoke-and-human-detector
 ## Project Website
-Link to project website
+[sky-watch-fire.lovable.app](https://sky-watch-fire.lovable.app/)
 ## Contact
 By Kishan Kannan
 Email - kishankannan.blr@gmail.com
